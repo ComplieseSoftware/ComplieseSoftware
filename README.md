@@ -9,10 +9,10 @@ I'm a **14-year-old** developer learning C++ and low-level graphics programming.
 
 ### 👨‍💻 About Me
 
-- 💻 **My Journey:** I started getting into programming around age 7. Over the years, I tried different things, and eventually fell in love with C++ and how games actually work under the hood.
-- 🎮 **Why Game Engines:** Instead of just using existing engines, I wanted to understand every piece myself—how windows are created, how OpenGL draws triangles, how delta time keeps physics smooth, and how memory is managed.
-- 🎯 **My Goal:** My biggest dream is to become a professional game engine engineer at Valve one day and work on complex, high-performance technology.
-- 🛠️ **Always Learning:** I'm still at the beginning of my journey, so my code isn't perfect. Any constructive feedback, architecture advice, or code reviews from more experienced developers are always welcome!
+- 💻 **Background:** I got into programming around age 7. After trying different languages and tools, I ended up focusing on C++ because I like having full control over memory and performance.
+- 🎮 **Why Game Engines:** Instead of just using ready-made engines, I wanted to build one myself to understand how everything works under the hood—window creation, OpenGL rendering pipelines, delta time, and input handling.
+- 🎯 **Goal:** I want to become a professional game engine engineer and work on complex graphics and engine systems.
+- 🛠️ **Feedback Welcome:** I'm still learning a lot, so my code definitely isn't perfect. Any honest feedback, architecture tips, or code reviews from more experienced developers are always appreciated!
 
 ---
 
