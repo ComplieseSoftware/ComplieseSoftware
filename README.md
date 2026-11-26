@@ -1,6 +1,6 @@
 # Hi! Welcome to Compliese Software 👋
 
-I'm a **14-year-old** developer learning C++ and graphics programming. Right now, I'm building **[CoreEngine](https://github.com)** — my own lightweight 2D/3D game engine written from scratch with **C++20** and **OpenGL 3.3**.
+I'm a **14-year-old** developer learning C++ and low-level graphics programming. Right now, I'm building **[CoreEngine](https://github.com)** — my own lightweight 2D/3D game engine written from scratch with **C++20** and **OpenGL 3.3**.
 
 > ⭐ **If you find this project interesting, please consider giving [CoreEngine](https://github.com) a Star!**  
 > It really motivates me to keep learning, fixing bugs, and adding new features.
@@ -9,37 +9,21 @@ I'm a **14-year-old** developer learning C++ and graphics programming. Right now
 
 ### 👨‍💻 About Me
 
-- 💻 I started getting into programming around age 7 and eventually fell in love with C++ and how games work under the hood.
-- 🎯 My dream is to become a game engine engineer one day.
-- 🛠️ I'm still learning a lot along the way, so my code isn't perfect—any feedback, tips, or code reviews from more experienced devs are always appreciated!
+- 💻 **My Journey:** I started getting into programming around age 7. Over the years, I tried different things, and eventually fell in love with C++ and how games actually work under the hood.
+- 🎮 **Why Game Engines:** Instead of just using existing engines, I wanted to understand every piece myself—how windows are created, how OpenGL draws triangles, how delta time keeps physics smooth, and how memory is managed.
+- 🎯 **My Goal:** My biggest dream is to become a professional game engine engineer at Valve one day and work on complex, high-performance technology.
+- 🛠️ **Always Learning:** I'm still at the beginning of my journey, so my code isn't perfect. Any constructive feedback, architecture advice, or code reviews from more experienced developers are always welcome!
 
 ---
 
 ### 💼 Tech Stack
 
-**Languages & Shaders**  
-![C++](https://shields.io)
-![OpenGL](https://shields.io)
-![GLSL](https://shields.io)
-
-**Tools & Libraries**  
-![Visual Studio](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![Windows](https://shields.io)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://vercel.app" height="170" />
-  <img src="https://vercel.app" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://demolab.com" />
-</p>
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages & Shaders** | `C++20` · `GLSL` |
+| **Graphics & Libraries** | `OpenGL 3.3 Core` · `GLFW` · `GLAD` · `stb_image` |
+| **Development & Build** | `Visual Studio 2022` · `MSVC x64` · `Inno Setup` |
+| **Version Control & OS** | `Git` · `GitHub` · `Windows x64` |
 
 ---
 
