@@ -2,6 +2,9 @@
 
 I'm a **14-year-old** solo developer behind **Compliese Software**, building **[CoreEngine](https://github.com)** — a lightweight 2D/3D game engine written from scratch in modern **C++20** and **OpenGL 3.3 Core**.
 
+> ⭐ **Enjoying the project or want to support a young engine developer?**  
+> Please consider giving **[CoreEngine](https://github.com)** a **Star**! Every ⭐ motivates me to keep building, learning, and shipping new features.
+
 ---
 
 ### 👨‍💻 About Me
@@ -13,9 +16,9 @@ I'm a **14-year-old** solo developer behind **Compliese Software**, building **[
 
 ---
 
-### 🔥 Featured Project: CoreEngine
+### 🔥 Featured Project & Live Repo Stats
 
-[![CoreEngine](https://shields.io)](https://github.com)
+[![CoreEngine Repo Card](https://vercel.app)](https://github.com)
 
 - **Clean Separation:** Compiles into a standalone static library (`.lib`) with a decoupled public `api/` layer.
 - **Performance Focused:** Custom GPU state caching and dynamic VBO updates (**6,500+ FPS** uncapped in 2D benchmarks).
@@ -25,11 +28,21 @@ I'm a **14-year-old** solo developer behind **Compliese Software**, building **[
 
 ### 🛠️ Tech Stack
 
-![C++20](https://shields.io)
-![OpenGL](https://shields.io)
-![GLSL](https://shields.io)
-![Visual Studio](https://shields.io)
-![Git](https://shields.io)
+| Category | Technologies |
+| :--- | :--- |
+| **Core Language** | `C++20` |
+| **Graphics & Shaders** | `OpenGL 3.3 Core` · `GLSL` |
+| **Libraries** | `GLFW` · `GLAD` · `stb_image` |
+| **IDE & Build** | `Visual Studio 2022` · `MSVC x64` · `Inno Setup` |
+| **Version Control** | `Git` · `GitHub` |
+
+---
+
+### 📊 Overall GitHub & Language Stats
+
+![ComplieseSoftware's GitHub stats](https://vercel.app)
+
+![Top Languages](https://vercel.app)
 
 ---
 
