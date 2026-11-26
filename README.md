@@ -1,52 +1,39 @@
-# Hi there, welcome to Compliese Software! 👋
+# Hi! Welcome to Compliese Software 👋
 
-I'm a **14-year-old** solo developer behind **Compliese Software**, building **[CoreEngine](https://github.com)** — a lightweight 2D/3D game engine written from scratch in modern **C++20** and **OpenGL 3.3 Core**.
+I'm a **14-year-old** developer learning C++ and graphics programming. Right now, I'm building **[CoreEngine](https://github.com)** — my own lightweight 2D/3D game engine written from scratch with **C++20** and **OpenGL 3.3**.
 
-> ⭐ **Enjoying the project or want to support a young engine developer?**  
-> Please consider giving **[CoreEngine](https://github.com)** a **Star**! Every ⭐ motivates me to keep building, learning, and shipping new features.
-
----
-
-### 👨‍💻 About Me
-
-- 💻 **Coding since age 7:** I've been fascinated by programming since early childhood, gradually moving from simple scripts to low-level systems and graphics engineering.
-- ⚙️ **Engine Architecture Enthusiast:** Inspired by legendary game engines and classic PC titles, my main goal is to become a professional **Game Engine Engineer**.
-- 🧠 **First-Principles Approach:** Instead of relying on black-box tools, I build core systems from the ground up—manually managing OpenGL pipelines, GPU state caching, memory, and frame-independent game loops to understand every single byte.
-- 🚀 **Continuous Learner:** Always experimenting, profiling, and refactoring. Constructive feedback and architecture advice from fellow C++ developers are always welcome!
+> ⭐ **If you find this project interesting, please consider giving [CoreEngine](https://github.com) a Star!**  
+> It really motivates me to keep learning, fixing bugs, and adding new features.
 
 ---
 
-### 🔥 Featured Project & Live Repo Stats
+### About Me
 
-[![CoreEngine Repo Card](https://vercel.app)](https://github.com)
-
-- **Clean Separation:** Compiles into a standalone static library (`.lib`) with a decoupled public `api/` layer.
-- **Performance Focused:** Custom GPU state caching and dynamic VBO updates (**6,500+ FPS** uncapped in 2D benchmarks).
-- **Complete Ecosystem:** Includes a custom multithreaded logger, hardware-agnostic input system, and a playable **Pong** vertical slice with a Windows installer.
+- I started getting into programming around age 7 and eventually fell in love with C++ and how games work under the hood.
+- My dream is to become a game engine engineer one day.
+- I'm still learning a lot along the way, so my code isn't perfect—any feedback, tips, or code reviews from more experienced devs are always appreciated!
 
 ---
 
-### 🛠️ Tech Stack
+### Current Project: **[CoreEngine](https://github.com)**
 
-| Category | Technologies |
+- Built as a static library (`.lib`) with a clean public API for games.
+- Uses OpenGL 3.3 with basic GPU state caching and dynamic VBO updates.
+- Comes with a playable **Pong** demo and a Windows installer.
+
+---
+
+### Tech Stack
+
+| Area | Tools |
 | :--- | :--- |
-| **Core Language** | `C++20` |
-| **Graphics & Shaders** | `OpenGL 3.3 Core` · `GLSL` |
-| **Libraries** | `GLFW` · `GLAD` · `stb_image` |
-| **IDE & Build** | `Visual Studio 2022` · `MSVC x64` · `Inno Setup` |
-| **Version Control** | `Git` · `GitHub` |
+| **Languages** | `C++20` · `GLSL` |
+| **Graphics & Windowing** | `OpenGL 3.3 Core` · `GLFW` · `GLAD` · `stb_image` |
+| **Tools** | `Visual Studio 2022` · `Git` · `Inno Setup` |
 
 ---
 
-### 📊 Overall GitHub & Language Stats
-
-![ComplieseSoftware's GitHub stats](https://vercel.app)
-
-![Top Languages](https://vercel.app)
-
----
-
-### 📫 Contact & Socials
+### Contact
 
 - **Email:** compliese.software@gmail.com
 - **X (Twitter):** *Coming soon*
