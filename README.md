@@ -1,8 +1,8 @@
 # Hi! Welcome to Compliese Software 👋
 
-I'm a **14-year-old** developer learning C++ and low-level graphics programming. Right now, I'm building **[Core Engine]([https://example.com](https://github.com/ComplieseSoftware/CoreEngine))** — my own lightweight 2D/3D game engine written from scratch with **C++20** and **OpenGL 3.3**.
+I'm a **14-year-old** developer learning C++ and low-level graphics programming. Right now, I'm building **[Core Engine](https://github.com/ComplieseSoftware/CoreEngine)** — my own lightweight 2D/3D game engine written from scratch with **C++20** and **OpenGL 3.3**.
 
-> ⭐ **If you find this project interesting, please consider giving [Core Engine]([https://example.com](https://github.com/ComplieseSoftware/CoreEngine)) a Star!**  
+> ⭐ **If you find this project interesting, please consider giving [Core Engine](https://github.com/ComplieseSoftware/CoreEngine) a Star!**  
 > It really motivates me to keep learning, fixing bugs, and adding new features.
 
 ---
