@@ -30,4 +30,4 @@ I'm a **14-year-old** developer learning C++ and low-level graphics programming.
 ### 📫 Contact
 
 - **Email:** compliese.software@gmail.com
-- **X (Twitter):[@NazarCmpsSoft](https://x.com/NazarCmpsSoft)
+- **X (Twitter)**:[@NazarCmpsSoft](https://x.com/NazarCmpsSoft)
