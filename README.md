@@ -22,8 +22,8 @@ I'm a **14-year-old** developer learning C++ and low-level graphics programming.
 | :--- | :--- |
 | **Languages & Shaders** | `C++20` · `GLSL` |
 | **Graphics & Libraries** | `OpenGL 3.3 Core` · `GLFW` · `GLAD` · `stb_image` |
-| **Development & Build** | `Visual Studio 2022` · `MSVC x64` · `Inno Setup` |
-| **Version Control & OS** | `Git` · `GitHub` · `Windows x64` |
+| **Development & Build** | `Visual Studio 2026` · `MSVC x64` · `Inno Setup` |
+| **Version Control & OS** | `Git` · `GitHub` · `Windows 11 x64` |
 
 ---
 
